@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "698995868059",
+    "firebase_url": "https://firescastarys.firebaseio.com",
+    "project_id": "firescastarys",
+    "storage_bucket": "firescastarys.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698995868059:android:00ad75520670a285",
+        "android_client_info": {
+          "package_name": "com.example.alex6.myfisrtapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698995868059-1mph7ls2b1ob3a3ikh4vbvdd54ar8l8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alex6.myfisrtapplication",
+            "certificate_hash": "49c2c43a7ad06ec70de9f9bd70531c0610995201"
+          }
+        },
+        {
+          "client_id": "698995868059-di28h0id2cb73mtdd0aohb673nvdd1rl.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "698995868059-di28h0id2cb73mtdd0aohb673nvdd1rl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeir-vzu229chuXpf6mLAg0EgzMfeuknI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698995868059-di28h0id2cb73mtdd0aohb673nvdd1rl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
